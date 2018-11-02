@@ -100,8 +100,8 @@ section {
 .main2 {
   padding: 0px;
   margin-top: 0px;
-  margin-bottom: 20px;
-  height: 490px; /* Used in this example to enable scrolling */
+  margin-bottom: 0px;
+  height: 500px; /* Used in this example to enable scrolling */
 }
 div.c{
 font-size: 100px;	
