@@ -149,7 +149,8 @@ a:link {
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
-	width: 60%;
+	height: 600px;
+	width: 90%;
  
   
   text-align: justify;
@@ -167,9 +168,9 @@ a:link {
     margin: 0 auto; /* Align slide image horizontally center */
 }
 .bs-example{
-	margin: 150px;
+	margin: 80px;
 	height: 10px;
-	width: 200px;
+	width: 250px;
 	margin-bottom: 100px;
 }
 
@@ -231,13 +232,6 @@ margin-top: 1px;
     to { background-position: -400px 0; }
 }
 
-#wall2{
-
-	background-image: url("bg2.jpg");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
-}
 
 .dn{
 	position: absolute;
@@ -258,10 +252,11 @@ margin-top: 1px;
 }
 .p{
 	font-size: 30px;
+	
 	margin-right: 50px;
 }
 .p1{
-	font-size: 20px;
+	font-size: 25px;
 	margin-top: 50px;
 	margin-right: 30px;
 	margin-bottom: 50px;
@@ -291,6 +286,7 @@ margin-top: 1px;
   background: white;
   color:#dd4b39 ;
 }
+
 
 
 </style>
@@ -329,9 +325,7 @@ margin-top: 1px;
 
 <div class="main" id="game">
   <section id="wall2">
-  <br>
-  <br>
-
+  
   <center>
 	
 	
