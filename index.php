@@ -299,7 +299,7 @@ margin-top: 1px;
 <div class="navbar">
 
 <button id="myBtn" class="btn" style="position: absolute; left: 1050px;" ><h4>Phone Compatibility Information</button>
-<a href="download.html" class="dn">Download</a>
+<a href="download.php" class="dn">Download</a>
 <a href="#about" class="ab">About Us</a>
 <a href="#home" class="hm">Home</a>
   
