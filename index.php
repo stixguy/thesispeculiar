@@ -396,7 +396,7 @@ margin-top: 1px;
     <center><p><h4>Compatible with Android devices that have 2 GB RAM or more and have Android Ver. 5 or up installed.</h4></p></center>
 	<center><p><h4>Compatible with Android devices that have Gyroscope installed.</h4></p></center>
     <p><h2>IOS:</h2></p>
-    <center><p><h4>Not Compatible for all devices</h4></p></center>
+    <center><p><h4>Not available for all devices</h4></p></center>
   </div>
 
 </div>
