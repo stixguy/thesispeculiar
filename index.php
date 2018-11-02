@@ -257,7 +257,7 @@ margin-top: 1px;
 }
 .p1{
 	font-size: 25px;
-	margin-top: 50px;
+	margin-top: 45px;
 	margin-right: 30px;
 	margin-bottom: 50px;
 	
