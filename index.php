@@ -77,14 +77,26 @@ section {
   margin-top: 0px;
   margin-bottom: 0px;
   height: 500px; /* Used in this example to enable scrolling */
+  
 }
+
 div.c{
 font-size: 100px;	
-font-family: Arial;
+font-family: Helvetica;
+margin-left: 75px;
 }
 div.d{
-font-size:200%;
+font-size:180%;
+margin-left: 10px;
 }
+
+.phone{
+	margin-left: 800px;
+	height: 300px;
+	width: 255px;
+	margin-top: 100px;
+}
+
 div.e{
 font-size:200%;
 color: white;
@@ -100,8 +112,9 @@ color: white;
     display: inline-block;
     margin: 4px 2px;
     cursor: pointer;
-	margin-top: 50px;
+	margin-top: 30px;
 	opacity: 0.6;
+	margin-left: 180px;
     
 }
 
@@ -117,6 +130,7 @@ a:link {
   flex-wrap: nowrap;
   background-color: none;
   vertical-align: middle;
+  
 }
 
 .flex-container .box {
@@ -135,6 +149,7 @@ a:link {
 .carousel{
     background: none;
     margin-top: 20px;
+
 }
 .carousel .item{
     min-height: 280px; /* Prevent carousel from being distorted if for some reason image doesn't load */
@@ -147,7 +162,10 @@ a:link {
 	height: 10px;
 	width: 250px;
 	margin-bottom: 100px;
+	
+
 }
+
 
 /* The Modal (background) */
 .modal {
@@ -195,18 +213,14 @@ margin-top: 1px;
 }
 #wall{
 
-	background-image: url("bg1.jpg");
+	background-image: url("bgnew.png");
     background-repeat: no-repeat;
     background-position: center;
-    background-attachment: fixed;
-	box-sizing: border-box;
-  -webkit-animation: slide 20s linear infinite;
-}
-@-webkit-keyframes slide {
-    from { background-position: 0 0; }
-    to { background-position: -400px 0; }
-}
+    background-size: 1200px 600px;
+	margin-left: 160px;
+	
 
+}
 
 .dn{
 	position: absolute;
@@ -232,7 +246,7 @@ margin-top: 1px;
 }
 .p1{
 	font-size: 22px;
-	margin-top: 45px;
+	margin-top: 40px;
 	margin-right: 30px;
 	margin-bottom: 50px;
 	
@@ -262,8 +276,6 @@ margin-top: 1px;
   color:#dd4b39 ;
 }
 
-
-
 </style>
 </head>
 <body>
@@ -279,41 +291,41 @@ margin-top: 1px;
 
 <div class="main" id="home">
   <section id="wall">
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
 	<div class="c">
-    <center><p><strong>PECULIAR</strong></p></center>
+    <p><strong>Peculiar</strong></p>
 	</div>
 	<div class="d">
-	<center><p>An Augmented Reality Cryptography Game</p>
-	<button class="button" ><a href="#game">Show More</a></button></center>
+	<p>An Augmented Reality Cryptography Game</p>
+	<button class="button" ><a href="#game">Show More</a></button>
 	</div>
+	
   </section>
 
 </div>
 
 <div class="main" id="game">
-  <section id="wall2">
+
   
-  <center>
+ 
 	
 	
   <div class="flex-container">
   <div class="box"><div class="bs-example">
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
         <!-- Carousel indicators -->
-        <ol class="carousel-indicators">
+      <ol class="carousel-indicators">
             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
             <li data-target="#myCarousel" data-slide-to="1"></li>
             <li data-target="#myCarousel" data-slide-to="2"></li>
-        </ol>   
+        </ol>
         <!-- Wrapper for carousel items -->
+		
         <div class="carousel-inner">
             <div class="item active">
                 <img src="1.png" alt="First Slide">
@@ -325,9 +337,10 @@ margin-top: 1px;
                 <img src="3.png" alt="Third Slide">
             </div>
         </div>
-       
+		
         
     </div>
+	
 </div></div>
   <div class="box">&nbsp;&nbsp;&nbsp;&nbsp;
   
@@ -338,8 +351,8 @@ margin-top: 1px;
  <p class="p">"A game play that is easily approachable for newcomers to the cryptography."</p>
 </div>
 </div>
-  </center>
-</section>
+ 
+
 </div>
 
 <div>
@@ -371,7 +384,7 @@ margin-top: 1px;
     <center><p><h4>Compatible with Android devices that have 2 GB RAM or more and have Android Ver. 5 or up installed.</h4></p></center>
 	<center><p><h4>Compatible with Android devices that have Gyroscope installed.</h4></p></center>
     <p><h2>IOS:</h2></p>
-    <center><p><h4>Not available for all devices</h4></p></center>
+    <center><p><h4>Not Compatible for all devices</h4></p></center>
   </div>
 
 </div>
