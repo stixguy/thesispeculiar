@@ -354,7 +354,7 @@ margin-top: 1px;
 	<br>
 	<img src="dv3.jpg" class="dv1"></img>
 	
-	<center><p class="footer">If you encounter problems in-game you may send message here <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" class="fa fa-google"></a></p>
+	<center><p class="footer">If you encounter problems in-game you may send message here <a href="" class="fa fa-google"></a></p>
 	<p class="footer">Copyright © 2018 Peculiar</p></center>
 	</div>
 	</section>
