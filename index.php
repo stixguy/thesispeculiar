@@ -218,7 +218,7 @@ margin-top: 1px;
 	background-image: url("bgnew.png");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 1200px 600px;
+    background-size: 1100px 600px;
 	margin-left: 160px;
 	
 
