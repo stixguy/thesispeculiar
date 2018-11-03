@@ -82,7 +82,7 @@ section {
 
 div.c{
 font-size: 100px;	
-font-family: Helvetica;
+font-family: Lucida Grande;
 margin-left: 75px;
 }
 div.d{
