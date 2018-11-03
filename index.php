@@ -71,6 +71,10 @@ section {
   padding: 0px;
   margin-top: 0px;
   height: 600px; /* Used in this example to enable scrolling */
+  background-image: url("bg2.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
 }
 .main2 {
   padding: 0px;
@@ -82,20 +86,14 @@ section {
 
 div.c{
 font-size: 100px;	
-font-family: Lucida Grande;
-margin-left: 75px;
+font-family: Helvetica;
+margin-left: 0px;
 }
 div.d{
 font-size:180%;
-margin-left: 10px;
+margin-left: 0px;
 }
 
-.phone{
-	margin-left: 800px;
-	height: 300px;
-	width: 255px;
-	margin-top: 100px;
-}
 
 div.e{
 font-size:200%;
@@ -103,25 +101,26 @@ color: white;
 }
 
 .button {
-       background-color: #ddd;
+    background-color: white;
     border: none;
-    color: black;
-    padding: 10px 20px;
+    color: none;
+    padding: 15px 25px;
     text-align: center;
+	
     text-decoration: none;
     display: inline-block;
     margin: 4px 2px;
     cursor: pointer;
-	margin-top: 30px;
+	margin-top: 420px;
 	opacity: 0.6;
-	margin-left: 180px;
+	margin-left: 300px;
 	border-radius: 32px;
-	font-size: 100%;
+	font-size: 120%;
     
 }
 
 .button:hover {
-    background-color: #f1f1f1;
+    background-color: black;
 }
 a:link {
     text-decoration: none;
@@ -164,6 +163,7 @@ a:link {
 	height: 10px;
 	width: 250px;
 	margin-bottom: 100px;
+	
 	
 
 }
@@ -215,11 +215,11 @@ margin-top: 1px;
 }
 #wall{
 
-	background-image: url("bgnew.png");
+	background-image: url("p3.png");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 1100px 600px;
-	margin-left: 160px;
+    background-size: 100%;
+	margin-left: 0px;
 	
 
 }
@@ -287,24 +287,15 @@ margin-top: 1px;
 <a href="download.php" class="dn">Download</a>
 <a href="#about" class="ab">About Us</a>
 <a href="#home" class="hm">Home</a>
-  
+
+ 
 </div>
 
 
 <div class="main" id="home">
   <section id="wall">
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<div class="c">
-    <p><strong>Peculiar</strong></p>
-	</div>
-	<div class="d">
-	<p>An Augmented Reality Cryptography Game</p>
-	<button class="button" ><a href="#game">Show More</a></button>
+	
+	<button class="button" ><a href="#game">Show more</a></button>
 	</div>
 	
   </section>
@@ -321,11 +312,7 @@ margin-top: 1px;
   <div class="box"><div class="bs-example">
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
         <!-- Carousel indicators -->
-      <ol class="carousel-indicators">
-            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-            <li data-target="#myCarousel" data-slide-to="1"></li>
-            <li data-target="#myCarousel" data-slide-to="2"></li>
-        </ol>
+      
         <!-- Wrapper for carousel items -->
 		
         <div class="carousel-inner">
@@ -333,17 +320,17 @@ margin-top: 1px;
                 <img src="1.png" alt="First Slide">
             </div>
             <div class="item">
-                <img src="2.png" alt="Second Slide">
+                <img src="1.png" alt="Second Slide">
             </div>
             <div class="item">
-                <img src="3.png" alt="Third Slide">
+                <img src="1.png" alt="Third Slide">
             </div>
         </div>
 		
         
     </div>
-	
-</div></div>
+</div>
+</div>
   <div class="box">&nbsp;&nbsp;&nbsp;&nbsp;
   
  <p class="p1">This Project “Peculiar: An Augmented Reality Cryptography Game” is intended for gamers, students, analytical and logical thinkers. 
@@ -364,10 +351,10 @@ margin-top: 1px;
 	<section style="background-color:#e13b52" >
 	<br>
 	<div class="e">
-	<center><p>About the Team</p></center>
+	<br>
 	<img src="dv3.jpg" class="dv1"></img>
 	
-	<center><p class="footer">If you encounter problems in-game you may contact us here <a href="#" class="fa fa-google"></a></p>
+	<center><p class="footer">If you encounter problems in-game you may send message here <a href="#" class="fa fa-google"></a></p>
 	<p class="footer">Copyright © 2018 Peculiar</p></center>
 	</div>
 	</section>
