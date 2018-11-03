@@ -103,7 +103,7 @@ color: white;
 }
 
 .button {
-    background-color: #ddd;
+       background-color: #ddd;
     border: none;
     color: black;
     padding: 10px 20px;
@@ -115,6 +115,8 @@ color: white;
 	margin-top: 30px;
 	opacity: 0.6;
 	margin-left: 180px;
+	border-radius: 32px;
+	font-size: 100%;
     
 }
 
