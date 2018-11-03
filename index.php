@@ -354,7 +354,8 @@ margin-top: 1px;
 	<br>
 	<img src="dv3.jpg" class="dv1"></img>
 	
-	<center><p class="footer">If you encounter problems in-game you may send message here <a href="mailto:pauljeffmoyano@gmail.com" class="fa fa-google"></a></p>
+	<center><p class="footer">If you encounter problems in-game you may send message here <a href="mailto:?subject=look at this website&body=Hi,I found this website
+and thought you might like it http://www.geocities.com/wowhtml/" class="fa fa-google"></a></p>
 	<p class="footer">Copyright © 2018 Peculiar</p></center>
 	</div>
 	</section>
