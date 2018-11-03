@@ -215,7 +215,7 @@ margin-top: 1px;
 }
 #wall{
 
-	background-image: url("p3.png");
+	background-image: url("bgnew.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100%;
