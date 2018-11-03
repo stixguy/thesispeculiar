@@ -68,7 +68,7 @@ We reserve the right to refuse service to anyone for any reason at any time.</p>
 <br>
 
 </div>
-<center><button class="button">Download</button></center>
+<center><button class="button">Click here to download/button></center>
 
 
 
