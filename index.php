@@ -317,14 +317,17 @@ margin-top: 1px;
         <!-- Wrapper for carousel items -->
 		
         <div class="carousel-inner">
-            <div class="item active">
-                <img src="1.png" alt="First Slide">
+             <div class="item active">
+                <img src="1p.png" alt="First Slide">
             </div>
             <div class="item">
-                <img src="1.png" alt="Second Slide">
+                <img src="4p.png" alt="Second Slide">
             </div>
             <div class="item">
-                <img src="1.png" alt="Third Slide">
+                <img src="3p.png" alt="Third Slide">
+            </div>
+			<div class="item">
+                <img src="2pic.png" alt="Fourth Slide">
             </div>
         </div>
 		
