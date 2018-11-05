@@ -69,7 +69,7 @@ We reserve the right to refuse service to anyone for any reason at any time.</p>
 
 </div>
 <center>
-<a href="https://drive.google.com/file/d/1vplXb28KrbnQbigzBvDNwjp1n05tUzhs/view" download>
+<a href="https://drive.google.com/uc?authuser=0&id=1vplXb28KrbnQbigzBvDNwjp1n05tUzhs&export=download" download>
   <img src="download.jpg" alt="download" width="104" height="142">
 </a>
 </center>
