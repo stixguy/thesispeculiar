@@ -69,7 +69,7 @@ We reserve the right to refuse service to anyone for any reason at any time.</p>
 
 </div>
 <center>
-<a href="https://drive.google.com/uc?export=download&id=Linya.apk" download>
+<a href="https://drive.google.com/file/d/1vplXb28KrbnQbigzBvDNwjp1n05tUzhs/view" download>
   <img src="download.jpg" alt="download" width="104" height="142">
 </a>
 </center>
