@@ -260,13 +260,13 @@ margin-top: 1px;
 }
 
 .fa {
-  padding: 10px;
+   padding: 8px;
   font-size: 30px;
-  width: 50px;
+  width: 120px;
   text-align: center;
   text-decoration: none;
-  margin: 5px 2px;
-  border-radius: 50%;
+  margin: 5px 10px;
+  border-radius: 32px;
 }
 
 .fa:hover {
