@@ -4,19 +4,7 @@
 
 
 <style>
-.button {
-  background-color: #ddd;
-  border: none;
-  color: black;
-  padding: 20px 40px;
-  text-align: center;
-  font-size: 20px;
-  text-decoration: none;
-  display: inline-block;
-  margin: 8px 4px;
-  cursor: pointer;
-  border-radius: 32px;
-}
+
 .center-justified {
   text-align: justify;
   margin: 0 auto;
@@ -70,7 +58,7 @@ We reserve the right to refuse service to anyone for any reason at any time.</p>
 </div>
 <center>
 <a href="https://drive.google.com/uc?authuser=0&id=1vplXb28KrbnQbigzBvDNwjp1n05tUzhs&export=download" download>
-  <img src="download.jpg" alt="download" width="104" height="142">
+  <img src="download.png" alt="download" width="320 px" height="100 px">
 </a>
 </center>
 
